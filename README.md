@@ -7,3 +7,5 @@ Install Nodecookie if it even works
 PHP proxy maybe??????
 
 change collaborators page
+
+Remove everywhere it says TN and change it to Atom
